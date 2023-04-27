@@ -1,0 +1,20 @@
+{
+  "customers": [
+    {
+      "name": "asd",
+      "surname": "asd",
+      "patronymic": "asd",
+      "birthDate": "2023-04-13",
+      "pin": "asd",
+      "serialNumber": "qe",
+      "homePhone": "231312",
+      "mobilePhone": "123123",
+      "currentAddress": "w",
+      "registrationAddress": "qwe",
+      "cancellationMessage": [],
+      "creditAppeals": [],
+      "id": 1
+    }
+  ],
+  "guarantors": []
+}
